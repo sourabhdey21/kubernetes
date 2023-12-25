@@ -12,7 +12,7 @@ Make sure you have the following installed:
 ## 🚀 Quick Start
 
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/sourabhdey21/kubernetes.git
    cd kubernetes/Play/Playbook
    ansible-playbook -i hosts.ini dependencies.yaml
