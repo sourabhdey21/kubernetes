@@ -15,5 +15,7 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/sourabhdey21/kubernetes.git
    cd kubernetes/Play/Playbook
-   
+   ansible-playbook -i hosts.ini dependencies.yaml
+   ansible-playbook -i hosts.ini control-plane.yaml
+   ansible-playbook -i hosts.ini worker.yaml
  
