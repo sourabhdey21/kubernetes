@@ -21,6 +21,6 @@ Make sure you have the following installed:
    ```
 
  2. Access the Cluster:
-   ```
+
    ![linkedin-k8s](https://github.com/sourabhdey21/kubernetes/assets/98477908/3d7651cc-f8b7-439b-95f0-750d0cf23962)
-    ```
+   
