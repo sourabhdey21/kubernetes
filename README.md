@@ -20,4 +20,7 @@ Make sure you have the following installed:
    ansible-playbook -i hosts.ini worker.yaml
    ```
 
- 
+ 2. Access the Cluster:
+   ```
+   ![image](https://github.com/sourabhdey21/kubernetes/assets/98477908/7d2d9007-525d-41d5-9596-fa6516c30b44)
+   ```
