@@ -18,4 +18,6 @@ Make sure you have the following installed:
    ansible-playbook -i hosts.ini dependencies.yaml
    ansible-playbook -i hosts.ini control-plane.yaml
    ansible-playbook -i hosts.ini worker.yaml
+   ```bash
+
  
